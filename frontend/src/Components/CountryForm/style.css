@@ -1,0 +1,11 @@
+.formWrapper {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.inputField {
+  background: white;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+}

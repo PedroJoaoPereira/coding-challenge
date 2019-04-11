@@ -1,0 +1,7 @@
+.alertBlockDiv {
+  height: 150px;
+}
+
+.alertBlockDiv p {
+  background: lightgreen;
+}

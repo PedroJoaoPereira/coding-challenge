@@ -1,0 +1,59 @@
+.mainFormWrapper {
+  width: 50%;
+  display: -ms-inline-grid;
+  min-height: 500px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.inputWrapper {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-left: 35px;
+  height: 60px;
+}
+
+.inputTextField {
+  width: 75%;
+  background: white;
+  float: right;
+  border: 1px solid blue !important;
+}
+
+.inputWrapper span {
+  color: blue;
+}
+
+.datePicker {
+  width: 100% !important;
+}
+
+button:not(.saveButton) {
+  background: grey !important;
+}
+
+.saveButton {
+  float: right;
+}
+
+.progressBarDiv {
+  background: rgba(10, 10, 10, 0.4) !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.progressBar {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+}
+
+.alertBlockWrapper {
+  min-height: 150px;
+}
